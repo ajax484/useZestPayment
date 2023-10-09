@@ -19,7 +19,7 @@ Here's an example of how to use the useZestPayment hook:
 import React from 'react';
 import { useZestPayment } from './useZestPayment'; // Import the hook
 
-function PaymentComponent() {****
+function PaymentComponent() {
   const { initializeTransaction, performingTransaction, transactionError } = useZestPayment({
     apiPublicKey: 'example_public_key'
   });
