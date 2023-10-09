@@ -1,6 +1,6 @@
 {
   "name": "usezestpayment",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "react sdk for zest payment",
   "author": "Bilal Yusuf",
   "private": false,
